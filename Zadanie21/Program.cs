@@ -34,9 +34,9 @@ namespace Zadanie21
             //FactNum();
 
             //7
-            Console.Write("Podaj liczbe: ");
-            int num = Convert.ToInt32(Console.ReadLine());
-            FibonacciNum(num);
+            //Console.Write("Podaj liczbe: ");
+            //int num = Convert.ToInt32(Console.ReadLine());
+            //FibonacciNum(num);
 
         }
 
